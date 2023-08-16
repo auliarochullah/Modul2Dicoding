@@ -1,5 +1,5 @@
 # Repository mengenai materi pembelajaran Pengembangan FrontEnd dan BackEnd Dicoding Academy Batch 5
-1. Belajar Dasar Git dengan GitHub (Progress 100%) Rabu 16 Agustus 2023
+1. Belajar Dasar Git dengan GitHub <Progress 100% Rabu 16 Agustus 2023>
 2. Memulai Dasar Pemrograman untuk Menjadi Pengembang Software 
 3. Pengenalan ke Logika Pemrograman (Programming Logic 101)
 4. Belajar Dasar Pemrograman Web
