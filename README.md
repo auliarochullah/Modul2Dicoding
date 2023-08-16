@@ -1,14 +1,11 @@
-# Modul2Dicoding
-
-**16 Agustus 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 16%)
-* Persetujuan Hak Cipta
-* Pengenalan Kelas
-* Prasyarat Kemampuan
-* Prasyarat Tools
-* Mekanisme Belajar
-* Forum Diskusi
-* Sesi Konsultasi Online
-* Pre-test
-* Daftar Referensi
-* Latihan Kuis
+# Repository mengenai materi pembelajaran Pengembangan FrontEnd dan BackEnd Dicoding Academy Batch 5
+1. Belajar Dasar Git dengan GitHub
+2. Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+3. Pengenalan ke Logika Pemrograman (Programming Logic 101)
+4. Belajar Dasar Pemrograman Web
+5. Belajar Dasar Pemrograman JavaScript
+6. Belajar Membuat Front-End Web untuk Pemula
+7. Belajar Fundamental Front-End Web Development
+8. Menjadi Front-End Web Developer Expert
+9. Belajar Membuat Aplikasi Back-End untuk Pemula
+10. Meniti Karier sebagai Software Developer
